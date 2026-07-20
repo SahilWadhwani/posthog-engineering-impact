@@ -1,0 +1,19 @@
+# dependencies / build output
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+
+# large local data (regenerable via scripts)
+data/posthog_repo/
+data/git_log.txt
+data/git_log_raw.txt
+data/git_log_err.txt
+data/review_data.json
+
+# secrets, never commit
+data/gh_token.txt
+scripts/_askpass.sh
+.env
+
+# OS
+.DS_Store
