@@ -2,6 +2,8 @@
 node_modules/
 dashboard/node_modules/
 dashboard/dist/
+.netlify/
+__pycache__/
 
 # large local data (regenerable via scripts)
 data/posthog_repo/
