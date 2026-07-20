@@ -1,6 +1,6 @@
 # PostHog Engineering Impact - Submission
 
-**Live dashboard:** _add your deployed URL here after the deploy step below_
+**Live dashboard:** https://posthog-engineering-impact.netlify.app
 **Repo analysed:** [PostHog/posthog](https://github.com/PostHog/posthog)
 **Window:** last 90 days (2026-04-20 to 2026-07-19), 10,165 merged PRs, 228 contributors
 

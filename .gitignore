@@ -12,6 +12,8 @@ data/review_data.json
 
 # secrets, never commit
 data/gh_token.txt
+data/netlify_token.txt
+data/.netlify_site
 scripts/_askpass.sh
 .env
 
